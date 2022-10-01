@@ -56,9 +56,7 @@ const mostrarCapchat = (extraerU, extraerC) =>{
             return
         }
         alert ('BIENVENIDO AL SISTEMA')
-        alert('seleccione una opcion')
-        if(confirm('1.)adivinanza'));
-        else('2.)cerrar seccion')
+        
     })
 
 }
